@@ -3,5 +3,6 @@ Creator: Ray Xiong; Candidate for MSBA &amp; MA @ Brandeis University Internatio
 '''
 Two students invited to the repository 
 Jamie Pippin; Github username: jamiepippin
+Jamie is a BA/MA student at Brandeis. She double majored in business and economics during her undergraduate studies at Brandeis.
 Maria Navarro; Github username: mnavarrocastillo 
 '''
